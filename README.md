@@ -1,6 +1,8 @@
 Pasos para levantar la API:
 
-Clonar el repositorio,
+Tener PHP >= 8.1
+
+Clonar el repositorio
 
 Navegar hasta la carpeta del proyecto con la terminal
 
